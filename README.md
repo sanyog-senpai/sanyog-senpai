@@ -1,5 +1,7 @@
 <br clear="both">
 
+<img src="https://media.licdn.com/dms/image/D4D16AQHWBkOrjrU87A/profile-displaybackgroundimage-shrink_350_1400/0/1707409036979?e=1715817600&v=beta&t=bXrwbixoHDgLEAH7mzHkk0Nm0glhTNf3MXJDqi8m8oY" />
+
 <h3 align="left">👋 Hi there! I'm Sanyog Rajbhandari, a frontend developer and UI/UX designer with a passion for creating captivating digital experiences.</h3>
 
 ###
