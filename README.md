@@ -36,31 +36,6 @@ Sculpting Digital Experiences | frontend developer and UI/UX designer with a pas
 <p>
 <img src="https://img.shields.io/badge/Git-333333?style=flat&logo=git" alt="Git" /> <img src="https://img.shields.io/badge/VS_Code-333333?style=flat&logo=vs-code" alt="VS Code" />
 </p>
-
-# 📊 GitHub Statistics
-
-<p>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sanyog-senpai&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9" alt="GitHub Stats" />
-</p>
-<p>
-  <img src="https://streak-stats.demolab.com?user=sanyog-senpai&theme=github-dark-blue&hide_border=true&background=00000000&border=30363d&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak Stats" />
-</p>
-<p>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sanyog-senpai&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9" alt="Most Used Languages" />
-</p>
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=sanyog-senpai&theme=onestar&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=8" alt="GitHub Trophies" />
-</p>
-<p>
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sanyog-senpai&bg_color=00000000&color=c9d1d9&line=58a6ff&point=58a6ff&area=true&hide_border=true" alt="Contribution Graph" />
-</p>
-
-</p>
-
 <p>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
-</p>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=sanyog-senpai&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
