@@ -1,7 +1,3 @@
-<div style="display: flex; align-items: flex-start;">
-  <img src="https://visitcount.itsvg.in/api?id=Sanyog_Rajbhandari&label=Profile%20Views&color=1&icon=5&pretty=true" />
-</div>
-
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px;">
   <h1 style="margin: 0;">Hi 👋, I'm Sanyog Rajbhandari</h1>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=270&height=30&lines=Frontend%20Developer%3BUI%2FUX%20Designer" style="margin-left: 10px;" />
@@ -59,12 +55,6 @@ Sculpting Digital Experiences | frontend developer and UI/UX designer with a pas
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sanyog-senpai&bg_color=00000000&color=c9d1d9&line=58a6ff&point=58a6ff&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 
-# 🤝 Connect With Me
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://sanyog-senpai.netlify.app/)
-
-<p>
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 <p>
